@@ -54,11 +54,11 @@ def warning():
     # 短信平台账号
     user = 'bennaifei'
     # 短信平台密码
-    password =  'a4b241402c8841e4b7d0ea72f9868420'
+    password =  md5('****' ) 
     # 要发送的短信内容
     content = '【报警】\n原因:检测到未知人员\n地点:xxx'
     # 要发送短信的手机号码
-    phone = '15517602365'
+    phone = '155*****365'
 
     data = urllib.parse.urlencode({'u': user, 'p': password, 'm': phone, 'c': content})
     send_url = smsapi + 'sms?' + data
