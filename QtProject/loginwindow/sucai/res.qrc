@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="images">
+    <file>d.jpg</file>
+    <file>headpo.jpg</file>
+  </qresource>
+  <qresource prefix="icons">
+    <file>D:/sucai/icons/bilibili.jpeg</file>
+    <file>D:/sucai/icons/github.jpeg</file>
+    <file>D:/sucai/icons/close.png</file>
+    <file>D:/sucai/icons/maxsize.png</file>
+    <file>D:/sucai/icons/minisize.png</file>
+    <file>D:/sucai/icons/restore.png</file>
+  </qresource>
+</RCC>
