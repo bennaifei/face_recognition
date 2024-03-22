@@ -1,1 +1,1 @@
-使用opencv实现的，opencv是卡密
+使用opencv实现的人脸识别部分，管理界面则是由Qt制作
